@@ -18,7 +18,7 @@
 # Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/hafacompany/3x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/hafacompany/HafaSanaei1.7.6/3x-ui/master/install.sh)
 ```
 
 # Install custom version
